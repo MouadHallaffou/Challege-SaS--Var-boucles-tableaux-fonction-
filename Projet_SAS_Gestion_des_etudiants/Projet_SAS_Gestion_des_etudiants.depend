@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1726049016 source:c:\users\youcode\desktop\projet_sas_gestion_des_etudiants\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<time.h>
-
